@@ -1,0 +1,108 @@
+*{
+      box-sizing: border-box;
+      margin: 0px;
+      padding: 0px;
+    }
+    #container{
+      padding: 100px;
+    }
+    .form-wrap{
+      color: white;
+      border: 100px;
+    }
+    body{
+      background-color: black;
+      color: red;
+      font-style: helvetica;
+    }
+    ul{
+      color: red;
+      font-style: helvetica;
+    }
+    ol{
+      color: red;
+      font-style: helvetica;
+    }
+    a{
+      color: black;
+      text-decoration: none;
+    }
+    button{
+  border: 10px;
+  font-size: 30px;
+  font-style: helvetica;
+  padding: 20px 50px;
+  border-radius: 10px;
+  cursor: pointer;
+  background: gold;
+  color: Black;
+}
+button:hover{
+  color: orange;
+  background: brown;
+}
+    .navbar {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      background: gold;
+      border-radius: 5px;
+      overflow: auto;
+    }
+    .navbar li {
+      float: left;
+    }
+    .navbar li a {
+      display: block;
+      color: black;
+      text-decoration: none;
+      padding: 15px 20px;
+    }
+    .navbar li a:hover {
+      background-color: brown;
+      color: orange;
+    }
+.b s{
+  color: black;
+  background: gold;
+  border: 10px;
+  font-size: 24px;
+  font-style: helvetica;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  text-decoration: none;
+}
+.b:hover s{
+  color: orange;
+  background: brown;
+}
+.btn{
+      background: gold;
+      border: 10px;
+      font-size: 16px;
+      font-style: helvetica;
+      padding: 10px 20px;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    .btn:hover {
+      color: orange;
+      background: brown;
+    }
+  }
+  h3{
+    background-color: black;
+    color: gold;
+  }
+  form{
+    background-color: black;
+    width: 400px;
+    height: 230px;
+    border: 3px solid red;
+    border-radius: 3px;
+  }
+  label{
+    color: gold;
+    font-style: helvetica;
+  }

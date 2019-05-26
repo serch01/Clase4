@@ -1,0 +1,7 @@
+Listo ♠ ﻿Se realizara una página principal, donde vendra una pequeña descripción de la misma
+Listo ♠ En la misma página principal llevara un "menu"
+Listo ♠ Utilizarán Imagenes acordes a su tema, las cuales tendrán que estar preparadas para verse bien(no pixeleadas, no cortadas)
+Listo ♠ Utilizaran al menos 2 páginas con estilo por separado (archivo.css)
+Pendiente ♠ Podrán subir un video realizado por ustedes de acuerdo al tema.
+Listo ♠ Contendra un formulario
+Listo ♠ En total serán 5 páginas creadas con Estilo (1 seria la que hicieron desde la primer semana)
